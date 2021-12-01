@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2y4ZoN450rM6NIUU7wEHp0Ok7KcjlpHaR1Kq2OJPKgXFo6a3QeJp9uevu8YC6bXUQnCgtBTOEMiOMEYIErrWag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SanamR\\Desktop\\PreIMPACT-Sept-2021\\Docker\\DockerAPINew\\DockerAPINew\\DockerAPINew.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SanamR\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
